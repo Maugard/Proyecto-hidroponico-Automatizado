@@ -1,5 +1,5 @@
 # Proyecto-hidropónico-Automatizado
-El proyecta busca crear un sistema casero hidropónico automatizado con ayuda de Arduino.
+El proyecto busca crear un sistema casero hidropónico automatizado con ayuda de Arduino.
 
 Arduino leerá los sensores colocados en el agua y el ambiente, mandará la información a una App para que el usuario lea las alertas y tome acción, en el caso que tenga un sistema semi-automático. 
 
